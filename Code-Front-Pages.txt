@@ -1,0 +1,24 @@
+Front Page
+    Content : Intro 
+    Right : Latest Languages, Latest Code Types, Latest Codes + Add new code
+
+Language View Page
+    Content : Intro
+    Right :  Latest Languages, Latest Code Types, Latest Codes for this language + add new code 
+            
+
+Code Type View Page
+    Content : Intro
+    Right :  Latest Languages, Latest Code Types, Latest Codes for this code types + add new code 
+
+Code View Page
+    Content : Code
+    Right :  Latest Languages, Latest Code Types, Latest Codes for this code types + add new code 
+
+
+Add New Code
+    Content : Form      
+    Right : Latest Languages, Latest Code Types, Latest Codes
+
+Side Compare 
+
